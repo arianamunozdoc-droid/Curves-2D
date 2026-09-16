@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+
+title: "Curves-2D"
+version: "1.0.0"
+date-released: 2026-09-16
+url: "https://github.com/arianamunozdoc-droid/Curves-2D"
+license: MIT
+
+authors:
+  - family-names: "Montesinos-Amilibia"
+    given-names: "Angel"
+    affiliation: "Universitat de València"
+
+  - family-names: "Muñoz Espinoza"
+    given-names: "Ariana Scarlet"
+    orcid: "https://orcid.org/0000-0002-5971-7968"
+    affiliation: "Departamento de Óptica, Facultad de Física, Universidad Complutense de Madrid, 28040 Madrid, Spain"
+
+abstract: "Software for visualizing planar curves and their associated derived curves."
+
+repository-code: "https://github.com/arianamunozdoc-droid/Curves-2D"
